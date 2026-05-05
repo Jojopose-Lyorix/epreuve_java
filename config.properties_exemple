@@ -1,0 +1,5 @@
+# Java/pj_asterix/config.properties
+
+db.url=//"link_database
+db.login=login
+db.password=password
